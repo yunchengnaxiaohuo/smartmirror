@@ -1,0 +1,4 @@
+#Thu Dec 06 17:05:02 CST 2018
+base.0=D\:\\ASwork\\SmartMirror\\SmartMirror\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

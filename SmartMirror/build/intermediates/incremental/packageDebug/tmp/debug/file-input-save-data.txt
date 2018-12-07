@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Thu Dec 06 18:13:56 CST 2018
+2.base=D\:\\ASwork\\SmartMirror\\SmartMirror\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+5.set=NATIVE_RESOURCE
+0.path=lib/x86_64/libyuv-decoder.so
+2.baseType=DIRECTORY
+3.base=D\:\\ASwork\\SmartMirror\\SmartMirror\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+2.set=NATIVE_RESOURCE
+1.path=lib/arm64-v8a/libyuv-decoder.so
+4.base=D\:\\ASwork\\SmartMirror\\SmartMirror\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+count=6
+5.baseType=DIRECTORY
+2.path=lib/armeabi-v7a/libyuv-decoder.so
+5.base=D\:\\ASwork\\SmartMirror\\SmartMirror\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+4.set=DEX
+3.path=classes.dex
+3.baseType=DIRECTORY
+1.set=NATIVE_RESOURCE
+4.path=classes.dex
+1.baseType=DIRECTORY
+5.path=lib/x86/libyuv-decoder.so
+0.base=D\:\\ASwork\\SmartMirror\\SmartMirror\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+0.baseType=DIRECTORY
+3.set=DEX
+1.base=D\:\\ASwork\\SmartMirror\\SmartMirror\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+4.baseType=DIRECTORY
+0.set=NATIVE_RESOURCE
